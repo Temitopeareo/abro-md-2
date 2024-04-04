@@ -13,7 +13,7 @@
   <a href="https://wa.me/2348100151048?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Abro-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Abro_Md is free to use" href="https://github.com/Temitopeareo/Abrotech-md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Abro_Md is free to use" href="https://github.com/Temitopeareo/abro-md-2/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Abro_Md is free to use" href="" target="_blank">
