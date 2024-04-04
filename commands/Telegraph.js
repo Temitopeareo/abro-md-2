@@ -5,7 +5,7 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Abro-Md
- * @author : SamPandey001 <https://github.com/Temitopeareo>
+ * @author : AbroTech <https://github.com/Temitopeareo>
  * @description : ABROBOT,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
